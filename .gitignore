@@ -1,0 +1,23 @@
+# generated outputs
+model/results/*.npy
+model/results/folds.csv
+model/results/fair_values.csv
+model/results/rank_*.csv
+model/results/comps_*.csv
+model/results/e07_dealer_effects.csv
+model/results/e07_chain_effects.csv
+model/results/e08_shap_two_ads.csv
+model/results/ols_formulas.json
+model/results/tree_feature_names.json
+model/results/*.log
+# python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+# editors / os
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini

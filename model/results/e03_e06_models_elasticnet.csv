@@ -1,0 +1,2 @@
+rmse_log,mae_log,mae_abs,mape,r2_log,bias_log,n,rmse_sd_repeats,model,seconds,best_params_full_dev
+0.0591058997456854,0.0441073155931911,15432.877787118823,0.0441008685649155,0.977812997974012,0.0001570731406581,2517.0,0.0003383145693983,elasticnet,9,"{""elasticnet__alpha"": 0.001, ""elasticnet__l1_ratio"": 0.2}"

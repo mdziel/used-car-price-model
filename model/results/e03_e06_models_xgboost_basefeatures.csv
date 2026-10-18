@@ -1,0 +1,2 @@
+rmse_log,mae_log,mae_abs,mape,r2_log,bias_log,n,rmse_sd_repeats,model,seconds,best_params_full_dev
+0.0574406085586488,0.042331826976084,14486.596841294231,0.0423623123617776,0.9790462784946404,0.0010082670046035,2517.0,5.3276613591727445e-05,xgboost,50,"{""learning_rate"": 0.03, ""max_depth"": 5.0, ""min_child_weight"": 3.0, ""n_estimators"": 800.0}"

@@ -1,0 +1,2 @@
+rmse_log,mae_log,mae_abs,mape,r2_log,bias_log,n,rmse_sd_repeats,model,seconds,best_params_full_dev
+0.0648853413174176,0.0469089637502112,15798.56140600729,0.0469158730172788,0.9732563734168812,-0.0006895211573965,2517.0,0.0010059972671298,rf,150,"{""max_features"": 0.5, ""min_samples_leaf"": 1.0}"

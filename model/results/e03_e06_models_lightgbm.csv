@@ -1,0 +1,2 @@
+rmse_log,mae_log,mae_abs,mape,r2_log,bias_log,n,rmse_sd_repeats,model,seconds,best_params_full_dev
+0.054889810796597,0.040293173955551,13645.85890126865,0.0403128695530306,0.9808655558924784,0.0007923047400904,2517.0,0.0002587828754538,lightgbm,68,"{""learning_rate"": 0.03, ""min_child_samples"": 10.0, ""n_estimators"": 800.0, ""num_leaves"": 16.0}"

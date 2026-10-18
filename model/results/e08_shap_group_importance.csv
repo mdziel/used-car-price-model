@@ -1,0 +1,16 @@
+Unnamed: 0,mean_abs_shap_log
+mileage,0.139657176239371
+age,0.0943437898489851
+model year,0.0640496268367443
+generation,0.0502531481730732
+trim,0.0264035507222745
+equipment (individual ticks),0.0175306159325299
+fuel / engine / drive,0.0095276529854903
+location,0.0094470706936653
+power,0.008967021621676
+"other specs (owners, CO2, weight, engine size)",0.0055862674487113
+seller style / listing quality,0.0043357612303528
+title keywords,0.0043145294212662
+warranty,0.0020633445144592
+colour,0.0010329623671511
+seller type / VAT,0.0002192598378754

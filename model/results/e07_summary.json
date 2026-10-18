@@ -1,0 +1,39 @@
+{
+ "car_model": "blend",
+ "sigma_within": 0.04175751366608682,
+ "sd_dealer_nonchain": 0.04108700705105968,
+ "sd_chain": 0.0031622776601683794,
+ "sd_branch_in_chain": 0.019748624393575484,
+ "loo_eval": {
+  "all dealer ads": {
+   "n": 2315,
+   "rmse_car_only": 0.0508610391223316,
+   "rmse_with_dealer": 0.048357110519911775,
+   "gain_pct": 4.92307795048651
+  },
+  "dealer has >=1 other ad": {
+   "n": 2005,
+   "rmse_car_only": 0.04805471236725037,
+   "rmse_with_dealer": 0.0449701087061126,
+   "gain_pct": 6.418941055279204
+  },
+  "dealer has >=4 other ads": {
+   "n": 1528,
+   "rmse_car_only": 0.045411889360054684,
+   "rmse_with_dealer": 0.04184318567848204,
+   "gain_pct": 7.858522805069102
+  },
+  "dealer is single-ad, chain info only": {
+   "n": 80,
+   "rmse_car_only": 0.059823219576503474,
+   "rmse_with_dealer": 0.059843769210810145,
+   "gain_pct": -0.034350599068622145
+  },
+  "dealer single-ad, no chain": {
+   "n": 230,
+   "rmse_car_only": 0.06827643379020941,
+   "rmse_with_dealer": 0.06827643379020941,
+   "gain_pct": 0.0
+  }
+ }
+}
